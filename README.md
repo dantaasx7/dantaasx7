@@ -42,6 +42,9 @@
 ###
 
 <br clear="both">
+<img src="https://raw.githubusercontent.com/dantaasx7/dantaasx7/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
