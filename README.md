@@ -34,13 +34,19 @@
 <h3>Connect with me!</h3>
 
 <div align="left">
-   <a href="https://www.linkedin.com/in/guilherme-dantas-barbosa-b2397332a/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://www.instagram.com/dantaaszk/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"</a>
+  <a href="https://www.instagram.com/dantaaszk/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/dantaasx7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
 
 
 ###
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dantaasx7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
